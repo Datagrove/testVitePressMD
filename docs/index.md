@@ -10,8 +10,8 @@
 | Writing| Mathematics (two units) | Mathematics (two units)|
 | English Language | Physical Education (on a regular basis) | Physical Education (two units) |
 | Geography | Health Education (on a regular basis) | Health Education (one-half unit) |
-| US History | Art (one half unit) | Art and/or Music (one unit) |
-| Science | Music (one half unit) | Electives (three units) |
+| US History | Art (one-half unit) | Art and/or Music (one unit) |
+| Science | Music (one-half unit) | Electives (three units) |
 | Health Education | Practical Arts (on a regular basis) |  |
 | Music |LIbrary Skills (on a regular basis) |  |
 | Visual Arts |   |  |
