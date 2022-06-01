@@ -18,7 +18,5 @@
 | Physical Education |   |  |
 | Bilingual education and/or English as a second language, as needed |  | |
 
-
-
 </div>
 
